@@ -1,0 +1,15 @@
+:root {
+  --white: hsl(0, 0%, 100%);
+  --abbey: hsl(230, 4%, 31%);
+  --alabaster: hsl(0, 0%, 97%);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+}
